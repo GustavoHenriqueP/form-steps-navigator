@@ -9,4 +9,4 @@
 - Navigator 2.0
 - Prototype Pattern (copyWith)
 
-### Construído em na seguinte vídeoaula: [Rodrigo Rahman - Flutter Navigator 2.0 - Criando um formulário de múltiplos passos (multistep form)](https://www.youtube.com/@rodrigorahman).
+### Construído na seguinte vídeoaula: [Rodrigo Rahman - Flutter Navigator 2.0 - Criando um formulário de múltiplos passos (multistep form)](https://www.youtube.com/@rodrigorahman).
