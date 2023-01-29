@@ -1,16 +1,12 @@
-# form_steps_navigator
+# App criado para estudos
 
-A new Flutter project.
+### :computer: Funcionamento
 
-## Getting Started
+#### Recebe informações para cadastro por multi-etapas, salvando o estado de cada página.
 
-This project is a starting point for a Flutter application.
+### :book: Engloba conceitos básicos de:
 
-A few resources to get you started if this is your first Flutter project:
+- Navigator 2.0
+- Prototype Pattern (copyWith)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Construído em na seguinte vídeoaula: [Rodrigo Rahman - Flutter Navigator 2.0 - Criando um formulário de múltiplos passos (multistep form)](https://www.youtube.com/@rodrigorahman).
